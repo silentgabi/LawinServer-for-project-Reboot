@@ -11,6 +11,7 @@
 | --------------- | ----------- |
 | [Lawin](https://github.com/Lawin0129) | Creator |
 | [PRO100KatYT](https://github.com/PRO100KatYT) | Contributor & Maintainer |
+| [Gabi]([https://github.com/Lawin0129](https://github.com/silentgabi)) | Reposter |
 
 ## Features:
 
